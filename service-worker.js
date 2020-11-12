@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Inusha-portfolio/precache-manifest.76d48d6e22e8bea185eac891af15f6ea.js"
+  "/Inusha-portfolio/precache-manifest.bdeb3f95b49117f62bbf8e8921dacea3.js"
 );
 
 self.addEventListener('message', (event) => {

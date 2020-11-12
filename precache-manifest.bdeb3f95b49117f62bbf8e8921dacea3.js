@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b83f55a90191ef28e3d3c6e5a62161a6",
+    "revision": "7d60d3cd49e1a32290278867e0609566",
     "url": "/Inusha-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Inusha-portfolio/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "4e30fa503221e1bf9c11",
+    "revision": "57241a7b75a68ef0aa76",
     "url": "/Inusha-portfolio/static/css/main.a48009d0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Inusha-portfolio/static/js/2.ab367ffd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4e30fa503221e1bf9c11",
-    "url": "/Inusha-portfolio/static/js/main.9c3b6022.chunk.js"
+    "revision": "57241a7b75a68ef0aa76",
+    "url": "/Inusha-portfolio/static/js/main.35ef3262.chunk.js"
   },
   {
     "revision": "b7bd0bd6b4178c91cf8b",
