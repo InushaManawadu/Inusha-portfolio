@@ -1,0 +1,7 @@
+.footer {
+    background-color: #e27b7e;
+}
+
+.footer > .footer__info {
+    margin-left: 40%;
+}
