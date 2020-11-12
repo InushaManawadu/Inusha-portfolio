@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Inusha-portfolio/static/css/main.a48009d0.chunk.css",
+    "main.js": "/Inusha-portfolio/static/js/main.9c3b6022.chunk.js",
+    "main.js.map": "/Inusha-portfolio/static/js/main.9c3b6022.chunk.js.map",
+    "runtime-main.js": "/Inusha-portfolio/static/js/runtime-main.eda48b4c.js",
+    "runtime-main.js.map": "/Inusha-portfolio/static/js/runtime-main.eda48b4c.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Inusha-portfolio/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ab367ffd.chunk.js": "/Inusha-portfolio/static/js/2.ab367ffd.chunk.js",
+    "static/js/2.ab367ffd.chunk.js.map": "/Inusha-portfolio/static/js/2.ab367ffd.chunk.js.map",
+    "index.html": "/Inusha-portfolio/index.html",
+    "precache-manifest.76d48d6e22e8bea185eac891af15f6ea.js": "/Inusha-portfolio/precache-manifest.76d48d6e22e8bea185eac891af15f6ea.js",
+    "service-worker.js": "/Inusha-portfolio/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Inusha-portfolio/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.a48009d0.chunk.css.map": "/Inusha-portfolio/static/css/main.a48009d0.chunk.css.map",
+    "static/js/2.ab367ffd.chunk.js.LICENSE.txt": "/Inusha-portfolio/static/js/2.ab367ffd.chunk.js.LICENSE.txt",
+    "static/media/banner.css": "/Inusha-portfolio/static/media/background-1.e693fd6b.png",
+    "static/media/frontend.png": "/Inusha-portfolio/static/media/frontend.10f34768.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eda48b4c.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ab367ffd.chunk.js",
+    "static/css/main.a48009d0.chunk.css",
+    "static/js/main.9c3b6022.chunk.js"
+  ]
+}
