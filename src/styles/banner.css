@@ -1,0 +1,96 @@
+.banner {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 1.6;
+}
+
+.banner__img {
+  display: flex;
+  padding: 30px;
+  width: 100%;
+  height: 70vh;
+  background-image: url("../images/background-1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.banner__img > img {
+  margin-left: 65%;
+  height: auto;
+  position: relative;
+}
+
+.banner__textbox {
+  margin-top: 2%;
+  position: absolute;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  width: 40%;
+  left: 10%;
+  height: 300px;
+  color: #f7f7ff;
+  align-items: center;
+}
+
+.banner__text__heading {
+  font-size: 18px;
+  color: #ff9f0c;
+}
+
+.baneer__story {
+  font-size: 30px;
+  line-height: 1.6;
+}
+
+.banner__button {
+  height: 35px;
+  width: 120px;
+  border-radius: 60px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.4s;
+  padding: 7px;
+  font-size: 16px;
+  font-weight: 550;
+  color: #f7f7ff;
+  background-color: #e27b7e;
+}
+
+.banner__button:hover {
+  color: #e27b7e;
+  background-color: #f7f7f7;
+}
+
+.myPicture > img {
+  height: 400px;
+}
+
+@media only screen and (min-width: 768px) {
+  /* tablets and desktop */
+  .banner__img {
+    background-image: url("../images/background-1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  /* phones */
+  .banner__img {
+    background-image: url("../images/background-1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+  /* portrait phones */
+  .banner__img {
+    background-image: url("../images/background-1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}

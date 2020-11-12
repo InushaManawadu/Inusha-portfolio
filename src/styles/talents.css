@@ -1,0 +1,16 @@
+.talent__boxes {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.talent__boxes > .talent__box {
+  flex-grow: 1;
+  text-align: center;
+  height: 25vh;
+  border-right: 2px solid gray;
+  padding: 10px;
+}
+
+.talent__box > img {
+  height: 100px;
+}
