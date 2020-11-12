@@ -44,7 +44,7 @@ export default class App extends React.Component {
                 </NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="https://github.com/reactstrap/reactstrap">
+                <NavLink href="https://github.com/InushaManawadu">
                   GitHub
                 </NavLink>
               </NavItem>
